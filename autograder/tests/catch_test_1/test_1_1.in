@@ -1,0 +1,19 @@
+#input
+    10 20 30 40 50
+#output
+    10 20 30 40 50
+#endtest
+
+#input
+    10 20 30 40 50 60
+#output
+    10 20 30 40 50 60
+#endtest
+
+#input
+     10 20 30 40 50 60 70
+#output
+     10 20 30 40 50 60 70
+#endtest
+
+
